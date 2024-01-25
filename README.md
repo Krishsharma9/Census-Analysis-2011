@@ -5,34 +5,57 @@
 
 Downloaded the dataset from https://www.census2011.co.in/district.php
 
- <h5>   Step 2 </h5> <h6> Created and Imported Dataset on MSSQL server </h6>
+#### Step 2  
+
+Created and Imported Dataset on MSSQL server 
  
- ![image](<img width="618" alt="Census 1" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/cdc62f5c-05ad-4db6-a751-0e8a51781f03"> ) 
+<img width="618" alt="Census 1" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/b50d9a01-5064-4ed5-a34f-b4e28a2f2722">
 
  
- <h5>   Step 3 </h5> Wrote query for analysis </h6> 
- 
- ![image](https://user-images.githubusercontent.com/111273893/185098525-4e183e7b-0af9-4514-afc3-db1e7970ba4a.png)
- 
- ![image](https://user-images.githubusercontent.com/111273893/185098666-356ed989-fc69-4603-a2d1-fa4dc27bb157.png)
+#### Step 3
 
- ![image](https://user-images.githubusercontent.com/111273893/185098902-03758ac3-fd28-4e13-96c1-21dc0f82ea6a.png)
+Wrote query for analysis
  
- <h5>   Step 4 </h5> Transformed and formed a new table </h6>
- 
-![image](https://user-images.githubusercontent.com/111273893/185099623-af349a7a-83ea-4ea6-922a-0476e04c827c.png)
- 
- <h5>   Step 5 </h5> Made Dashboard </h6>
- 
- ![image](https://user-images.githubusercontent.com/111273893/185100034-08f0931d-c78c-48cf-954f-9c7fd8ee9b2d.png)
- 
- ![image](https://user-images.githubusercontent.com/111273893/185100470-d27efe89-1ce6-4e95-b020-a44facc35058.png)
+ <img width="632" alt="Census 3(2)" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/8f10a134-e38c-4636-9b14-aad07fd45a68">
 
 
-
- <h5>   Step 6 </h5> Connected map on 'Overall analysis' page to 'State and District level breakdown to give a dynamic look' </h6>
  
-![image](https://user-images.githubusercontent.com/111273893/185100557-228719af-6950-45a6-b165-7400198d5f4b.png)
+<img width="627" alt="Census 3" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/e293a3e6-b4bb-4ba5-aae6-5c4fe2a994f2">
+ 
 
-![image](https://user-images.githubusercontent.com/111273893/185100609-4f0a4bbd-3324-492f-990a-411cb8e55836.png)
+ 
+ <img width="628" alt="Census 4" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/8452f000-3d83-41b5-8b5d-2463a5cf7667">
+
+
+  ####  Step 4 
+  
+  Transformed and formed a new table 
+ 
+
+<img width="635" alt="Step 4 Census" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/f4637512-425e-4901-8fa0-c8b8cccf905d">
+
+
+ 
+  ####  Step 5
+  
+  Made Dashboard 
+
+ <img width="758" alt="Census 5" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/3a72afff-b4cb-4b29-a053-df00d5a0e83a">
+
+ 
+<img width="757" alt="Census 6" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/51e466f1-b6ad-4d3b-99d4-af3241ab6c0d">
+
+ 
+ 
+
+
+
+ #### Step 6
+ 
+ Connected map on 'Overall analysis' page to 'State and District level breakdown to give a dynamic look' </h6>
+
+  <img width="755" alt="Census 7" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/6381c57c-e2a9-4e27-9027-e0cbad27402c">
+
+
+<img width="757" alt="Census 8" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/49fb0b09-da6c-42e5-87f8-7160a5e1d505">
 
