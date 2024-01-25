@@ -7,8 +7,8 @@ Downloaded the dataset from https://www.census2011.co.in/district.php
 
  <h5>   Step 2 </h5> <h6> Created and Imported Dataset on MSSQL server </h6>
  
- ![image](<img width="618" alt="Census 1" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/c2ee1081-19dd-400c-87ef-cc11d80377cb">
-)
+ ![image](<img width="618" alt="Census 1" src="https://github.com/Krishsharma9/Census-Analysis-2011/assets/97390084/cdc62f5c-05ad-4db6-a751-0e8a51781f03"> ) 
+
  
  <h5>   Step 3 </h5> Wrote query for analysis </h6> 
  
